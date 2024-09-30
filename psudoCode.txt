@@ -1,0 +1,16 @@
+set the bool to false initialy >
+add event listner to any key >
+when Key pressed write the function >
+give all buttons the same class and id for each >
+set the heading to level 1 >
+inside the function set the bool to true initialy and write the while loop based on the bool value >
+generate random number between 1-4 and add it to the correct array >
+constract the new tempo array inside the function >
+add even listner for general class >
+then when the button clicked extract the id and add it to the tempo array >
+compare the tempo array last element tempo[tempo.length - 1] with correct[tempo.length - 1]
+if they are the same add the level
+if they are not the same set the bool to false and return out from the function
+
+out side of the listner function check if the bool is false and then add event listner to the buttons
+if any buttons clicked then make background to red and change the heading
